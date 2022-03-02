@@ -1,7 +1,7 @@
 
 class A{
  void display() {	
-	 
+	System.out.println("hello "); 
  }
 }
 class B{
