@@ -1,6 +1,8 @@
 
 class A{
-	
+ void display() {	
+	 
+ }
 }
 class B{
 	
